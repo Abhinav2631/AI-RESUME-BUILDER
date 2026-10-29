@@ -56,6 +56,3 @@ npm run lint
 
 Enter the company, job description, experience level, and preferred cover-letter tone. Optionally paste resume content, then request the generated materials. Review all AI-generated content for accuracy before using it in an application.
 
-## Attribution and reuse
-
-This repository is an authorized learning/adaptation copy of [AI-RESUME-BUILDER by Naresh Chary](https://github.com/NareshChary0430/AI-RESUME-BUILDER). The upstream project and its original implementation remain credited to the original creator. This copy has been prepared for personal learning and portfolio practice with permission.
